@@ -9,7 +9,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=tak1n&show_icons=true&include_all_commits=true&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jvelez1&layout=compact&hide=html,css)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tak1n&layout=compact&hide=html,css)
 
 <!--
 **tak1n/tak1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
