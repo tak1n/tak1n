@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Benjamin, a software engineer with focus on back-end and DevOps from Tyrol, Austria 🇦🇹.
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tak1n&count_private=true&show_icons=true&theme=dark&hide=stars" />
+</p>
+
 <!--
 **tak1n/tak1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
