@@ -7,6 +7,17 @@
 - I love to learn about new technologies, but also getting quite in depth understanding in certain areas 🔬
 - Living a ovo-vegetarian lifestyle 🌱🥝
 
+## Skills
+
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+## Github Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=tak1n&theme=dracula&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tak1n&langs_count=8&theme=dracula)
