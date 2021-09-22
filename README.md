@@ -7,9 +7,10 @@
 - I love to learn about new technologies, but also getting quite in depth understanding in certain areas 🔬
 - Living a ovo-vegetarian lifestyle 🌱🥝
 
-<a href="https://github.com/tak1n/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tak1n&repo=github-readme-stats&theme=dracula&show_icons=true" />
+<a href="https://github.com/tak1n/tak1n">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tak1n&repo=tak1n&theme=dracula&show_icons=true" />
 </a>
+
 ![](https://github-readme-stats.vercel.app/api?username=tak1n&theme=dracula&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tak1n&)
