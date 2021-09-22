@@ -8,7 +8,7 @@
 - Living a ovo-vegetarian lifestyle 🌱🥝
 
 <a href="https://github.com/tak1n/tak1n">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tak1n&repo=tak1n&theme=dracula&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tak1n&repo=tak1n&theme=dracula&show_icons=true" />
 </a>
 
 ![](https://github-readme-stats.vercel.app/api?username=tak1n&theme=dracula&show_icons=true)
