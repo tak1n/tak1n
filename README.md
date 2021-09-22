@@ -7,7 +7,7 @@
 - I love to learn about new technologies, but also getting quite in depth understanding in certain areas 🔬
 - Living a ovo-vegetarian lifestyle 🌱🥝
 
-![https://twitter.com/tak1n](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![https://twitter.com/tak1n](https://img.shields.io/badge/tak1n-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 ## Skills
 
