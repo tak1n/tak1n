@@ -7,7 +7,7 @@
 - I love to learn about new technologies, but also getting quite in depth understanding in certain areas 🔬
 - Living a ovo-vegetarian lifestyle 🌱🥝
 
-![](https://github-readme-stats.vercel.app/api?username=tak1n&theme=THEME_NAME)
+![](https://github-readme-stats.vercel.app/api?username=tak1n&theme=dracula&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tak1n&layout=compact&hide=html,css)
 
