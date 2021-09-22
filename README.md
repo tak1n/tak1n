@@ -3,7 +3,7 @@
 ## About Me 👨‍💻
 
 - Living in Tyrol, Austria 🇦🇹
-- I'm working as a Software Engineer at [Onlim](https://www.onlim.com)
+- I'm working as a Software Engineer with focus on Backend and DevOps at [Onlim](https://www.onlim.com)
 - I love to learn about new technologies, but also getting quite in depth understanding in certain areas 🔬
 - Living a ovo-vegetarian lifestyle 🌱🥝
 
