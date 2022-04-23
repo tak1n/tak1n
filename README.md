@@ -5,7 +5,7 @@
 - Living in Tyrol, Austria 🇦🇹
 - I'm working as a Software Engineer with focus on Backend and DevOps at [Onlim](https://www.onlim.com)
 - I love to learn about new technologies, but also getting quite in depth understanding in certain areas 🔬
-- Currently learning Typescript, Node.js and NestJS.
+- Currently learning Typescript, Node.js and NestJS. Interested in [Hanami](https://hanamirb.org/) and [Crystal](https://crystal-lang.org).
 - Living a ovo-vegetarian lifestyle 🌱🥝
 
 [![Twitter](https://img.shields.io/badge/tak1n-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tak1n)
