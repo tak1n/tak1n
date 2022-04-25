@@ -5,7 +5,7 @@
 - Living in Tyrol, Austria 🇦🇹
 - I'm working as a Software Engineer with focus on Backend and DevOps at [Onlim](https://www.onlim.com)
 - I love to learn about new technologies, but also getting quite in depth understanding in certain areas 🔬
-- Currently learning Typescript, Node.js and NestJS. Interested in [Hanami](https://hanamirb.org/) and [Crystal](https://crystal-lang.org).
+- Currently learning [Typescript](https://www.typescriptlang.org/), [Node.js](https://nodejs.dev/) and [NestJS]((https://nestjs.com/). Interested in [Hanami](https://hanamirb.org/) and [Crystal](https://crystal-lang.org).
 - Living a ovo-vegetarian lifestyle 🌱🥝
 
 [![Twitter](https://img.shields.io/badge/tak1n-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tak1n)
@@ -22,7 +22,7 @@
 ### Frameworks and Libraries
 
 [![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.dev/)
+[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.dev/)
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
