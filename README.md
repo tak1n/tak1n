@@ -8,8 +8,6 @@
 - Living a ovo-vegetarian lifestyle 🌱🥝
 - Hiking addicted ⛰️
 
-[![Twitter](https://img.shields.io/badge/tak1n-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tak1n)
-
 ## Skills
 
 - [Ruby](https://ruby-lang.org) 💎 ❤️
