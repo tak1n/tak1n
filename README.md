@@ -4,42 +4,22 @@
 
 - Living in Tyrol, Austria 🇦🇹
 - I'm working as a Software Engineer with focus on Backend and DevOps at [Onlim](https://www.onlim.com)
-- I love to learn about new technologies, but also getting quite in depth understanding in certain areas 🔬
-- Currently learning [Typescript](https://www.typescriptlang.org/), [Node.js](https://nodejs.dev/) and [NestJS](https://nestjs.com/). Interested in [Crystal](https://crystal-lang.org) and [Rust](https://rust-lang.org).
+- I love to learn about new technologies, but also getting quite in depth understanding in certain areas 🔬.
 - Living a ovo-vegetarian lifestyle 🌱🥝
+- Hiking addicted ⛰️
 
 [![Twitter](https://img.shields.io/badge/tak1n-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tak1n)
 
 ## Skills
 
-### Languages
+- [Ruby](https://ruby-lang.org) 💎 ❤️
+- [TypeScript](https://www.typescriptlang.org/) ([Node.js](https://nodejs.dev/))
+- [PostgreSQL](https://www.postgresql.org/), [Redis](https://redis.io/), [MongoDB](https://www.mongodb.com/)
+- [Docker](https://docs.docker.com/), [Kubernetes](https://kubernetes.io/), [Terraform](https://www.terraform.io/)
 
-[![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://ruby-lang.org)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+Currently playing around with [Crystal](https://crystal-lang.org) and Microcontrollers ([Arduino UNO R3](https://docs.arduino.cc/hardware/uno-rev3), [ESP8622](https://www.espressif.com/en/products/socs/esp8266), [ESP32](https://www.espressif.com/en/products/socs/esp32), etc) in my spare time.
 
-### Frameworks and Libraries
-
-[![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
-[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.dev/)
-[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
-[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
-
-### Databases
-
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)](https://kafka.apache.org/)
-
-### DevOps
-
-[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)](https://rancher.com/)
-[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[Twitter](https://twitter.com/tak1n), [Website](https://www.bennyklotz.at), [LinkedIn](https://www.linkedin.com/in/benjamin-klotz-91374153/)
 
 <!--
 **tak1n/tak1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
