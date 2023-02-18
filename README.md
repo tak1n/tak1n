@@ -41,12 +41,6 @@
 [![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)](https://rancher.com/)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 
-## Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=tak1n&theme=dracula&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tak1n&langs_count=8&theme=dracula)
-
 <!--
 **tak1n/tak1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
