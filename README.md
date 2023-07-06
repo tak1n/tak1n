@@ -15,7 +15,7 @@
 - [PostgreSQL](https://www.postgresql.org/), [Redis](https://redis.io/), [MongoDB](https://www.mongodb.com/)
 - [Docker](https://docs.docker.com/), [Kubernetes](https://kubernetes.io/), [Terraform](https://www.terraform.io/)
 
-Currently refreshing my electrical engineering basics and fiddling around with Microcontrollers ([Arduino UNO R3](https://docs.arduino.cc/hardware/uno-rev3), [ESP8622](https://www.espressif.com/en/products/socs/esp8266), [ESP32](https://www.espressif.com/en/products/socs/esp32), etc) in my spare time.
+Currently refreshing my electronics engineering basics and fiddling around with Microcontrollers ([Arduino UNO R3](https://docs.arduino.cc/hardware/uno-rev3), [ESP8622](https://www.espressif.com/en/products/socs/esp8266), [ESP32](https://www.espressif.com/en/products/socs/esp32), etc) in my spare time.
 
 [Twitter](https://twitter.com/tak1n), [Website](https://www.bennyklotz.at), [LinkedIn](https://www.linkedin.com/in/benjamin-klotz-91374153/)
 
