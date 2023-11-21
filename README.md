@@ -17,8 +17,6 @@
 
 Currently refreshing my electronics engineering basics and fiddling around with Microcontrollers ([Arduino UNO R3](https://docs.arduino.cc/hardware/uno-rev3), [ESP8622](https://www.espressif.com/en/products/socs/esp8266), [ESP32](https://www.espressif.com/en/products/socs/esp32), etc) in my spare time.
 
-[Twitter](https://twitter.com/tak1n), [Website](https://www.bennyklotz.at), [LinkedIn](https://www.linkedin.com/in/benjamin-klotz-91374153/)
-
 <!--
 **tak1n/tak1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
