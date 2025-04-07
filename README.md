@@ -13,7 +13,7 @@
 - [PostgreSQL](https://www.postgresql.org/), [Redis](https://redis.io/), [MongoDB](https://www.mongodb.com/)
 - [Linux](https://archlinux.org/), [Docker](https://docs.docker.com/), [Kubernetes](https://kubernetes.io/)
 
-Currently refreshing my electronics & networking basics, fiddling around with Microcontrollers (STM32, Raspberry Pi Pico) and experimenting with a Homelab setup in my spare time.
+Currently refreshing my networking basics and fiddling around with a Homelab setup in my spare time.
 
 <!--
 **tak1n/tak1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
