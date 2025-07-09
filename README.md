@@ -9,11 +9,11 @@
 ## Skills
 
 - [Ruby](https://ruby-lang.org) 💎 ❤️
-- [TypeScript](https://www.typescriptlang.org/) ([Node.js](https://nodejs.dev/))
+- [TypeScript](https://www.typescriptlang.org/)/[Node.js](https://nodejs.dev/)
 - [PostgreSQL](https://www.postgresql.org/), [Redis](https://redis.io/), [MongoDB](https://www.mongodb.com/)
 - [Linux](https://archlinux.org/), [Docker](https://docs.docker.com/), [Kubernetes](https://kubernetes.io/)
 
-Currently refreshing my networking basics and fiddling around with a Homelab setup in my spare time.
+Currently refreshing my networking basics by fiddling around with a Homelab setup in my spare time, as well as learning [Go](https://go.dev/).
 
 <!--
 **tak1n/tak1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
