@@ -9,7 +9,7 @@
 ## Skills
 
 - [Ruby](https://ruby-lang.org) 💎 ❤️
-- [TypeScript](https://www.typescriptlang.org/)/[Node.js](https://nodejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/) / [Node.js](https://nodejs.dev/)
 - [PostgreSQL](https://www.postgresql.org/), [Redis](https://redis.io/), [MongoDB](https://www.mongodb.com/)
 - [Linux](https://archlinux.org/), [Docker](https://docs.docker.com/), [Kubernetes](https://kubernetes.io/)
 
